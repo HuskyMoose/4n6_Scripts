@@ -2,7 +2,7 @@ __artifacts_v2__ = {
     "NYC_Transit_Trips": {
         "name": "NYC Transit: MTA Subway & Bus",
         "description": "Parses dates and location data for trips taken using the NYC Transit App.",
-        "author": "Joseph Dean",
+        "author": "Joseph Dean <https://github.com/HuskyMoose>",
         "version": "0.0.1",
         "date": "2025-05-09",
         "requirements": "none",
